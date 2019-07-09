@@ -1,0 +1,11 @@
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\bin\Debug\BlockGame.exe.config
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\bin\Debug\BlockGame.exe
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\bin\Debug\BlockGame.pdb
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.csprojAssemblyReference.cache
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.Properties.Resources.resources
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.GenerateResource.cache
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.CoreCompileInputs.cache
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.exe
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.pdb
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.FormGame.resources
+C:\Users\Ultimate\source\repos\BlockGame\BlockGame\obj\Debug\BlockGame.FormInput.resources
